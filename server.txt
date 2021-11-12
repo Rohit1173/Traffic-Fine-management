@@ -1,0 +1,39 @@
+                  eChallan Customers Challan Management Records
+____________________________________________________________________________________
+| Vehicle Number | Rule Violated  | Date         |  Time    | Image Taken | Amount |
+------------------------------------------------------------------------------------
+| Ap26Z1234      | Red_Light_Skip | 2021-10-31   | 18:21:12 | sample.png  | 500    |
+| Ap1234ZXC      | No Parking     | 2021-10-31   | 18:27:10 | sample.png  | 100    |
+| aofinasda      | Tripling       | 2021-10-31   | 18:33:24 | sample.png  | 560    |
+| AP25Z1234      | Tripling       | 2021-10-31   | 18:38:29 | sample.png  | 500    |
+| Ap23Z1234      | No Parking     | 2021-10-31   | 19:06:07 | sample.png  | 400    |
+| TS12a1234      | No Helmet      | 2021-10-31   | 22:30:57 | sample.png  | 400    |
+| PC34A2345      | No Parking     | 2021-10-31   | 22:36:01 | sample.png  | 500    |
+| AP23j4382      | No Parking     | 2021-11-03   | 11:10:21 | sample.png  | 500    |
+| AP12&asda      | No Parking     | 2021-11-03   | 12:10:22 | sample.png  | 600    |
+| Ap12z1234      | No Parking     | 2021-11-04   | 11:59:00 | sample.png  | 500    |
+| Ap1234ZXC      | No Parking     | 0221-11-04   | 12:00:00 | sample.png  | 600    |
+| Ts12u1234      | No Helmet      | 2021-11-04   | 12:16:12 | sample.png  | 800    |
+| Ap12z1234      | No Parking     | 2021-11-04   | 12:22:05 | sample.png  | 700    |
+| Ap12z1234      | Tripling       | 2021-11-05   | 12:58:38 | sample.png  | 300    |
+| Ap12z1234      | No Helmet      | 2021-11-05   | 13:05:28 | sample.png  | 500    |
+| TS12a1234      | Tripling       | 2021-11-05   | 20:16:49 | sample.png  | 300    |
+| TS12a1234      | No Helmet      | 2021-11-05   | 20:18:51 | sample.png  | 500    |
+| ap12d1234      | No Helmet      | 2021-11-05   | 20:27:23 | sample.png  | 500    |
+| Ap12z1234      | Tripling       | 2021-11-05   | 22:41:04 | sample.png  | 300    |
+| AP23j4382      | No Helmet      | 2021-11-05   | 23:08:11 | sample.png  | 500    |
+| TS12a1234      | Tripling       | 2021-11-06   | 14:23:22 | sample.png  | 300    |
+| AP23j4382      | No Helmet      | 2021-11-09   | 12:28:16 | sample.png  | 500    |
+| AP23j4382      |       -        | 2021-11-10   | 15:01:43 |      -      |Cleared |
+| TS12a1234      | No License     | 2021-11-10   | 16:28:57 | sample.png  | 200    |
+| Ap12z1234      | No License     | 2021-11-10   | 16:36:12 | sample.png  | 200    |
+| Ap12z1234      | No Parking     | 2021-11-10   | 16:38:48 | sample.png  | 100    |
+| Ap12z1234      | Tripling       | 2021-11-10   | 23:56:27 | sample.png  | 300    |
+| Ap12z1234      | No License     | 2021-11-10   | 23:58:58 | sample.png  | 200    |
+| Ap12z1234      |       -        | 2021-11-11   | 00:15:22 |      -      |Cleared |
+| Ap12z1234      | Speeding       | 2021-11-11   | 09:40:25 | sample.png  | 200    |
+| ap12d1234      | No Helmet      | 2021-11-11   | 09:46:11 | sample.png  | 500    |
+| TS12a1234      | No License     | 2021-11-11   | 11:16:20 | sample.png  | 200    |
+| AP23j4382      | No License     | 2021-11-11   | 12:32:50 | sample.png  | 200    |
+| AP25Z1234      |       -        | 2021-11-11   | 13:24:47 |      -      |Cleared |
+| Ts12u1234      | Tripling       | 2021-11-11   | 14:48:59 | sample.png  | 300    |
