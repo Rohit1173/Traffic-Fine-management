@@ -30,7 +30,7 @@ public class Login {
     }
     void enter_user(){
         if(type=='U'||type=='u'){
-            System.out.println("ENTER YOUR VEHICLE NUMBER :");
+            System.out.println("ENTER YOUR VEHICLE NUMBER :(Enter a 9 letter Vehicle Number)");
         }
         else{
             System.out.println("ENTER YOUR USERNAME : ");
